@@ -1,0 +1,10 @@
+{
+  "mod_id": "JABTA",
+  "mod_name": "JABTA",
+  "mod_dir": "/JABTA/",
+  "mod_version": "0.1.0",
+  "mc_version": "1.15.1",
+  "mod_authors": ["xkjmaster_1x"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/jabta-just-another-bad-tech-attempt",
+  "description": "Just Another Bad Tech Attempt is a new small tech mod."
+}

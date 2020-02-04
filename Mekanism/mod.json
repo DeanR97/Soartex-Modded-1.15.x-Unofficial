@@ -1,0 +1,10 @@
+{
+  "mod_id": "Mekanism",
+  "mod_name": "Mekanism",
+  "mod_dir": "/Mekanism/",
+  "mod_version": "9.9.8.400",
+  "mc_version": "1.15.2",
+  "mod_authors": ["bradyaidanc", "theCyanideX", "thommy101", "pupnewfster", "Thiakil"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/mekanism",
+  "description": "Mekanism is an independent tech mod that brings low, mid, and high tier machinery to Minecraft."
+}

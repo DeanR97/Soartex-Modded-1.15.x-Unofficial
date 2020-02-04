@@ -1,0 +1,10 @@
+{
+  "mod_id": "Expanded_Storage",
+  "mod_name": "Expanded Storage",
+  "mod_dir": "/Expanded_Storage/",
+  "mod_version": "1.1.5",
+  "mc_version": "1.15.2",
+  "mod_authors": ["NinjaPhenix"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/expanded-storage",
+  "description": "This mod adds a few new types of chests which can be combined vertically or on both horizontal axis."
+}

@@ -1,0 +1,10 @@
+{
+  "mod_id": "storagenetwork",
+  "mod_name": "Simple Storage Network",
+  "mod_dir": "/Simple_Storage_Network/",
+  "mod_version": "0.2.4",
+  "mc_version": "1.15.1",
+  "mod_authors": ["Lothrazar","Shadows_of_Fire", "davenonymous", "KidsDontPlay", "Funwayguy"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/simple-storage-network",
+  "description": "A simplified version of the abandoned Storage Network mod from MrRiegel."
+}

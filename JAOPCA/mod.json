@@ -1,0 +1,10 @@
+{
+  "mod_id": "JAOPCA",
+  "mod_name": "JAOPCA",
+  "mod_dir": "/JAOPCA/",
+  "mod_version": "3.0.0.18",
+  "mc_version": "1.15.2",
+  "mod_authors": ["TheLMiffy1111", "sobinary"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/jaopca",
+  "description": "JAOPCA (Just A Ore Processing Compatibility Attempt) is a mod that aims to add ore processing compatibilty to many mods, and is inspired by AOBD (Another One Bites the Dust) by ganymedes01."
+}
