@@ -11,8 +11,8 @@ with scripts and made available in the patcher and on the downloads page!
 - [Downloads](http://soartex.net/downloads/)
 - [License](http://soartex.net/license/#fanver)
 
-![shields.io](https://img.shields.io/github/issues-pr-raw/DeanR97/Soartex-Modded-1.14.x-Unofficial?style=flat-square)
-![shields.io](https://img.shields.io/github/issues/DeanR97/Soartex-Modded-1.14.x-Unofficial?style=flat-square)
+![shields.io](https://img.shields.io/github/issues-pr-raw/DeanR97/Soartex-Modded-1.15.x-Unofficial?style=flat-square)
+![shields.io](https://img.shields.io/github/issues/DeanR97/Soartex-Modded-1.15.x-Unofficial?style=flat-square)
 
 ### Goals
 * Relaxed, fun, community learning and texturing environment
